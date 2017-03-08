@@ -1,0 +1,150 @@
+<DOCTYPE! html>
+<html lang="en">
+<head>
+<style>
+body {background-color:black; text-align:center;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+h1 {color:cornflowerblue; border-style: none none solid none; 
+}
+h2 {color:cornflowerblue;
+}
+h3 {color:aqua; border-style: none none groove none;
+}
+div.b {color:cornflowerblue;
+}
+div.a {text-align:left; background:#2B3856; color:#2B1B17; border-style: none none none solid; border-width:20px;
+}
+p.c {border-style:groove; color:red; border-color:red;
+}
+li {color:cornflowerblue; text-align:left;
+}
+img {margin-top:10px; margin-bottom:10px;
+}
+img.d {float:left;
+</style>
+</head>
+<body>
+
+<h1> TOTALITARIAN GOVERNMENTS DURING INTRAWAR PERIOD </h1>
+
+<h2>Totalitarianism</h2>
+
+<div class="b">
+	<blockquote cite="https://en.wikipedia.org/wiki/Totalitarianism">
+	A system of government that is centralized and dictatorial and requires complete subservience 
+	to the state.</blockquote>
+	<blockquote cite="http://www.dictionary.com/browse/totalitarianism">
+	Absolute control by the state or a governing branch of a highly centralized institution.
+	<br>The character or quality of an autocratic or authoritarian individual, group, or government.
+	</blockquote>
+	<img src="https://i2.wp.com/braungardt.trialectics.com/wp-content/uploads/2015/10/Ernst-Junger-and-Carl-Schmitt.jpg">
+	<p class="c">Concept first developed in 1920’s by Carl Schmitt as it was mentioned in his work “The Concept of the Political” where the term “totalstaat” was used.
+	Giovanni Amendola was the person to put totalitarianism into context by drawing parallels of the word to Italy’s political system of fascism.
+	Amendola described its goals as “total representation of the nation and the total guidance of national goals”.
+	The use of the term totalitarianism written in the english language was written by Franz Borkenav in his 1938 book “The Communist International”, saying it united Soviet and German dictatorships more than dividing them.</p>
+
+</div>
+
+<div class="a">
+	<h2>Chronology</h2>
+</div>
+
+<h3>Timeline</h3>
+<li>1918-1939</li>
+<h3>USSR</h3>
+<li>In 1933 Joseph Stalin began the Great Purge to eliminate political rivals in the communist party.</li>
+<h3>Germany</h3>
+<li>In 1939, Hitler’s invasion of Poland prompted Great Britain and France to declare war on Germany.</li>
+<h3>Italy</h3>
+<li>In 1935 Benito Mussolini sent Italy’s army to invade Ethiopia</li>
+<h3>USA</h3>
+<li>In October 1929 the “Wallstreet Crash” signified the end of the 1920s prosperity,
+ prompting the ten year Great Depression.</li>
+<li>In August 18, 1920 Woman’s Suffrage ends and prompts the rights for women to vote.</li>
+
+<div class="a">
+	<h2>Geography</h2>
+</div>
+
+<img src="http://nms6ss.weebly.com/uploads/3/7/0/6/37065601/4458198_orig.jpg">
+<h3>USSR</h3>
+<img src="http://www.vidiani.com/maps/maps_of_europe/maps_of_russia/large_detailed_administrative_map_of_russia_with_major_roads_major_cities_and_relief_in_russian.jpg" height="654" width="1078">
+<h3>Germany</h3>
+<img src="http://home.wlu.edu/~patchw/His_214/images/Map_1920.jpg" width="1078" height="708">
+<h3>Italy</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Kingdom_of_Italy_1919_map.svg" width="1214.3222" height="1383.38">
+<h3>USA</h3>
+<img src="https://s-media-cache-ak0.pinimg.com/originals/7f/27/ee/7f27eec743b4f2f7d12d4b618547cf33.jpg" width="1072.5" width="808.5">
+
+<div class="a">
+	<h2>Social</h2>
+</div>
+
+<h3>USSR</h3>
+<li>Franz Borkenav’s 1939 book <i>The Communist International</i> said that it united Soviet and German dictatorships.</li>
+<li>Collectivization of farms meant bringing workers together to produce more products. Millions died due to famine or execution upon rebellion.</li>
+<h3>Germany</h3>
+<li>Hitler and Nazis gain popularity to power by propaganda.</li>
+<h3>Italy</h3>
+<li>Italy struggled with the economy and politics before rising to power by Mussolini.</li>
+<h3>USA</h3>
+<li>Franz Borkenav’s 1939 book <i>The Communist International</i> put the concept of totalitarianism into english terms and understanding.</li>
+<li>America in the 1920s was called the “Golden Age Twenties” after WW1 by Europe.</li>
+
+<div class="a">
+	<h2>Philosophy</h2>
+</div>
+
+<h3>USSR</h3>
+<li>The Soviet Union was under the philosophical rule of Communism.</li>
+<h3>Germany</h3>
+<li>Hitler ended democracy and took on absolute power.</li>
+<h3>Italy</h3>
+<li>Italy was under the philosophical rule of fascism.</li>
+<h3>USA</h3>
+<li>“Normalcy” returned to politics and philosophy in the wake of hyper emotional patriotism.
+ To return to “Normalcy” means to return to a way of life before WW1.
+ This was said by Warren G Harding during his campaign for elections.</li>
+<div class="a">
+	<h2>Economy</h2>
+</div>
+
+<h3>USSR</h3>
+<li>Stalin had a plan to fix the economy with the “Five Year Plan” which was to start 
+collective farming systems over acres of land to increase production of food, despite 
+accounting for the major loss of life to follow suit with it.</li>
+<li>They wanted to produce more metal, oil and coal.</li>
+<h3>Germany</h3>
+<li>The Treaty of Versailles forced Germany to reduce its military, give up land and pay for damages in war.</li>
+<li>Economy had trouble with reparations, inflation and The Great Depression.</li>
+<h3>Italy</h3>
+<li>In early 1920s Italy struggled economically and politically</li>
+<h3>USA</h3>
+<li>Foreign oil companies begin in South America, Venezuela. It became the world’s second largest oil production nation.</li>
+<li>Wallstreet crash leads America into a 10 year Great Depression</li>
+
+<div class="a">
+	<h2>Polotics</h2>
+</div>
+
+<h3>USSR</h3>
+<li>Under the rule of Joseph Stalin</li>
+<li>The Great Purge in 1933 was to eliminate rivals in the communist party.</li>
+<h3>Germany</h3>
+<li>Under the rule of Adolf Hitler.</li>
+<li>Hitler became chancellor on January 30th, 1933.</li>
+<li>Hitler outlawed Communism.</li>
+<li>There was refusal to follow the Treaty of Versailles, as a result he rebuilt the military.</li>
+<li>Hitler joined a fascist group called “National Socialist Worker’s Party of the Nazi’s”.</li>
+<h3>Italy</h3>
+<li>Under the rule of Benito Mussolini</li>
+<li>Mussolini promised to restore power of the Roman Empire</li>
+<h3>USA</h3>
+<li></li>
+<div class="a">
+	<h2>Revelancy</h2>
+</div>
+<p></p>
+</body>
+</html>
